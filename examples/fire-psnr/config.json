@@ -1,0 +1,5 @@
+{
+  "input_file": "../videos/fire.mp4",
+  "gif_max_length": 2,
+  "analyze_compare_type": "psnr"
+}

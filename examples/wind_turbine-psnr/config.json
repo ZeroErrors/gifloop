@@ -1,0 +1,5 @@
+{
+  "input_file": "../videos/wind_turbine.mp4",
+  "analyze_frame_rate": 15,
+  "analyze_compare_type": "psnr"
+}
